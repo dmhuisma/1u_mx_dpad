@@ -1,6 +1,6 @@
 # 1u_mx_dpad
 
-This is a DIY dpad that can be placed within the bounds of a Cherry MX switch mounting hole.
+This is a DIY dpad that can be placed within the bounds of any Cherry MX switch mounting hole. I am currently using this in my [Splitcore keyboard](https://github.com/dmhuisma/splitcore-zmk).
 
 ![Cross section](images/cross_sectional_view.png)
 
